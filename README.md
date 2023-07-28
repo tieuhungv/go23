@@ -1,4 +1,3 @@
-# go23
 # Introduction to the Go Programming Language
 
 ![Golang Logo](https://golang.org/doc/gopher/frontpage.png)
